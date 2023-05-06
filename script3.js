@@ -21,13 +21,13 @@ var particlesPool = [];
 var particlesInUse = [];
 
 var fly = new Audio();
-fly.src = "audio/fly.mp3";
+fly.src = "https://github.com/DanylGUms/1234/blob/main/fly.mp3";
 var red_greak = new Audio();
-red_greak.src = "audio/red_greak1.mp3";
+red_greak.src = "https://github.com/DanylGUms/1234/blob/main/red_greak1.mp3";
 var blue_greak = new Audio();
 var plane_fall = new Audio();
-blue_greak.src = "audio/blue_break.mp3";
-plane_fall.src = "audio/samolet.mp3";
+blue_greak.src = https://github.com/DanylGUms/1234/blob/main/blue_break.mp3";
+plane_fall.src = "https://github.com/DanylGUms/1234/blob/main/samolet.mp3";
 fly.loop = true;
 
 
